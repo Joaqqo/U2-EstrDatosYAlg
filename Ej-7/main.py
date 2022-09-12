@@ -19,6 +19,7 @@ if __name__ == '__main__':
             if not Cola.Vacia():
                 cliente= Cola.Suprimir()
                 TEC= i-cliente #Tiempo de espera del cliente
+                #contc += 1 aca iria
                 if max < TEC:
                     max= TEC
                 cajero= TAC
