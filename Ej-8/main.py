@@ -2,6 +2,15 @@ from Cola import Cola
 from ColaE import ColaE
 from Paciente import Paciente
 import random
+
+# HOLA JOACO!
+# HOLA JOACO!
+# HOLA JOACO!
+# HOLA JOACO!
+# HOLA JOACO!
+# HOLA JOACO!
+
+
 if __name__ == '__main__':
     print("-------COMIENZA SIMULACIÓN-------")
     print("...")
